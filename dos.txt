@@ -1,1 +1,1 @@
-creado archivo dos.txt
+creado archivo dos.txt ..
